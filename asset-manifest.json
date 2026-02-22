@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MoviePix/static/css/main.d68e910c.css",
+    "main.js": "/MoviePix/static/js/main.80c32e32.js",
+    "static/js/453.798faca7.chunk.js": "/MoviePix/static/js/453.798faca7.chunk.js",
+    "static/media/LoadingSpinner.gif": "/MoviePix/static/media/LoadingSpinner.7517415e575521b3249f.gif",
+    "static/media/background_banner.jpg": "/MoviePix/static/media/background_banner.303a83aff58191b99963.jpg",
+    "static/media/MovieLogo.png": "/MoviePix/static/media/MovieLogo.9c59e63712fb44ce6107.png",
+    "index.html": "/MoviePix/index.html",
+    "main.d68e910c.css.map": "/MoviePix/static/css/main.d68e910c.css.map",
+    "main.80c32e32.js.map": "/MoviePix/static/js/main.80c32e32.js.map",
+    "453.798faca7.chunk.js.map": "/MoviePix/static/js/453.798faca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d68e910c.css",
+    "static/js/main.80c32e32.js"
+  ]
+}
